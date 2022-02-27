@@ -11,7 +11,7 @@ import SwiftUI
 struct MyPreviewAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationBarView()
         }
     }
 }
